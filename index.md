@@ -2,6 +2,8 @@
 
 ## Madison Comer
 
+![AR](./ar.jpg)
+
 ### Introduction
 
 Augmented reality is an innovation that is starting to evolve in the industrial and education industries. When one thinks about augmented reality we think about more sci-fi kind of stories or movies that seem farfetched from reality. In all actuality, we as a society are becoming a place where we are empowering the workers in all industries with technologies that can help provide us with a better means and efficiencies of working. Augmented reality is a technology that not only empowers the consumers, but it does not require people to become more obsolete.
